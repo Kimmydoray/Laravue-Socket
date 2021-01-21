@@ -24,14 +24,14 @@
         "vue-template-compiler": "^2.6.10",
         "ioredis": "^3.2.2",
         "redis": "^2.8.0",
-        "socket.io": "^2.1.1",
+        "socket.io": "^2.4.0",
         "vue-socket.io": "^2.1.1",
         "socket.io-client": "^2.0.4"
     },
     "dependencies": {
         "ioredis": "^4.10.0",
         "redis": "^2.8.0",
-        "socket.io": "^2.2.0",
+        "socket.io": "^2.4.0",
         "vue-socket.io": "^2.1.1-b"
     }
 }
